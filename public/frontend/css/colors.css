@@ -1,0 +1,341 @@
+@charset "utf-8";
+
+
+.myfolio__settings .colors li a.blue{background-color: #4169e1;}
+.myfolio__settings .colors li a.green{background-color: #66B95C;}
+.myfolio__settings .colors li a.brown{background-color: #d1701f;}
+.myfolio__settings .colors li a.pink{background-color: #ff5e94;}
+.myfolio__settings .colors li a.orange{background-color: #fa5b0f;}
+.myfolio__settings .colors li a.black{background-color: #333;}
+.myfolio__settings .colors li a.white{background-color: #e5e5e5;}
+.myfolio__settings .colors li a.purple{background-color: #9200ee;}
+.myfolio__settings .colors li a.sky{background-color: #00D4BD;}
+.myfolio__settings .colors li a.cadetBlue{background-color: #5e9e9f;}
+.myfolio__settings .colors li a.crimson{background-color: #e65f78;}
+.myfolio__settings .colors li a.olive{background-color: #666d41;}
+.myfolio__settings .colors li a.red{background-color: #fe0000;}
+
+
+.myfolio__all_wrap[data-color="blue"] .cursor-inner.cursor-hover{background-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .cursor-outer{border-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .cursor-inner{background-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__topbar .list ul li.current a{color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__topbar .list ul li a:hover{color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__title span{color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__button a{background-color: #4169e1;border-color:#4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="blue"] .progress_inner .background .bar_in{background: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .svg{color: #4169e1 !important;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__news ul li .details span a:hover{color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__news ul li .details .title a:hover{color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__copyright{background-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__modalbox .hide_content .quotebox p{border-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__topbar.animate{box-shadow: 0 0 5px #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .myfolio__hero .texts h4::after{background-color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .timeline-page .timeline-item .event:hover .title {color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .portfolio-content-head .controls li.filter:hover {color: #4169e1;}
+.myfolio__all_wrap[data-color="blue"] .portfolio-content-head .controls li.filter.active{color: #4169e1;}
+
+
+.myfolio__all_wrap[data-color="green"] .cursor-inner.cursor-hover{background-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .cursor-outer{border-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .cursor-inner{background-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__topbar .list ul li.current a{color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__topbar .list ul li a:hover{color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__title span{color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__button a{background-color: #66B95C;border-color:#66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="green"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="green"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="green"] .progress_inner .background .bar_in{background: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .svg{color: #66B95C !important;}
+.myfolio__all_wrap[data-color="green"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__news ul li .details span a:hover{color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__news ul li .details .title a:hover{color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__copyright{background-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__modalbox .hide_content .quotebox p{border-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__topbar.animate{box-shadow: 0 0 5px #66B95C;}
+.myfolio__all_wrap[data-color="green"] .myfolio__hero .texts h4::after{background-color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .timeline-page .timeline-item .event:hover .title {color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .portfolio-content-head .controls li.filter:hover {color: #66B95C;}
+.myfolio__all_wrap[data-color="green"] .portfolio-content-head .controls li.filter.active{color: #66B95C;}
+
+
+.myfolio__all_wrap[data-color="brown"] .cursor-inner.cursor-hover{background-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .cursor-outer{border-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .cursor-inner{background-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__topbar .list ul li.current a{color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__topbar .list ul li a:hover{color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__title span{color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__button a{background-color: #d1701f;border-color:#d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="brown"] .progress_inner .background .bar_in{background: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .svg{color: #d1701f !important;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__news ul li .details span a:hover{color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__news ul li .details .title a:hover{color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__copyright{background-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__modalbox .hide_content .quotebox p{border-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__topbar.animate{box-shadow: 0 0 5px #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .myfolio__hero .texts h4::after{background-color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .timeline-page .timeline-item .event:hover .title {color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .portfolio-content-head .controls li.filter:hover {color: #d1701f;}
+.myfolio__all_wrap[data-color="brown"] .portfolio-content-head .controls li.filter.active{color: #d1701f;}
+
+
+.myfolio__all_wrap[data-color="pink"] .cursor-inner.cursor-hover{background-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .cursor-outer{border-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .cursor-inner{background-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__topbar .list ul li.current a{color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__topbar .list ul li a:hover{color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__title span{color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__button a{background-color: #ff5e94;border-color:#ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="pink"] .progress_inner .background .bar_in{background: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .svg{color: #ff5e94 !important;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__news ul li .details span a:hover{color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__news ul li .details .title a:hover{color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__copyright{background-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__modalbox .hide_content .quotebox p{border-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__topbar.animate{box-shadow: 0 0 5px #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .myfolio__hero .texts h4::after{background-color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .timeline-page .timeline-item .event:hover .title {color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .portfolio-content-head .controls li.filter:hover {color: #ff5e94;}
+.myfolio__all_wrap[data-color="pink"] .portfolio-content-head .controls li.filter.active{color: #ff5e94;}
+
+
+.myfolio__all_wrap[data-color="orange"] .cursor-inner.cursor-hover{background-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .cursor-outer{border-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .cursor-inner{background-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__topbar .list ul li.current a{color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__topbar .list ul li a:hover{color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__title span{color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__button a{background-color: #fa5b0f;border-color:#fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="orange"] .progress_inner .background .bar_in{background: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .svg{color: #fa5b0f !important;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__news ul li .details span a:hover{color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__news ul li .details .title a:hover{color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__copyright{background-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__modalbox .hide_content .quotebox p{border-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__topbar.animate{box-shadow: 0 0 5px #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .myfolio__hero .texts h4::after{background-color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .timeline-page .timeline-item .event:hover .title {color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .portfolio-content-head .controls li.filter.active{color: #fa5b0f;}
+.myfolio__all_wrap[data-color="orange"] .portfolio-content-head .controls li.filter:hover {color: #fa5b0f;}
+
+
+.myfolio__all_wrap[data-color="black"] .cursor-inner.cursor-hover{background-color: #000;}
+.myfolio__all_wrap[data-color="black"] .cursor-outer{border-color: #000;}
+.myfolio__all_wrap[data-color="black"] .cursor-inner{background-color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__topbar .list ul li.current a{color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__topbar .list ul li a:hover{color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__title span{color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__button a{background-color: #000;border-color:#000;color: #fff;}
+.myfolio__all_wrap[data-color="black"] .myfolio__button a:hover{background-color: transparent;color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="black"] .progress_inner .background .bar_in{background: #000;}
+.myfolio__all_wrap[data-color="black"] .svg{color: #000 !important;}
+.myfolio__all_wrap[data-color="black"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__news ul li .details span a:hover{color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__news ul li .details .title a:hover{color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__copyright{background-color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__modalbox .hide_content .quotebox p{border-color: #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__topbar.animate{box-shadow: 0 0 5px #000;}
+.myfolio__all_wrap[data-color="black"] .myfolio__hero .texts h4::after{background-color: #000;}
+.myfolio__all_wrap[data-color="black"] .timeline-page .timeline-item .event:hover .title {color: #000;}
+.myfolio__all_wrap[data-color="black"] .portfolio-content-head .controls li.filter:hover {color: #000;}
+.myfolio__all_wrap[data-color="black"] .portfolio-content-head .controls li.filter.active{color: #000;}
+
+
+.myfolio__all_wrap[data-color="white"] .cursor-inner.cursor-hover{background-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .cursor-outer{border-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .cursor-inner{background-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__topbar .list ul li.current a{color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__topbar .list ul li a:hover{color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__title span{color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__button a{background-color: #fff;border-color:#fff;color: #000;}
+.myfolio__all_wrap[data-color="white"] .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="white"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="white"] .progress_inner .background .bar_in{background: #fff;}
+.myfolio__all_wrap[data-color="white"] .svg{color: #fff !important;}
+.myfolio__all_wrap[data-color="white"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__news ul li .details span a:hover{color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__news ul li .details .title a:hover{color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__copyright{background-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__modalbox .hide_content .quotebox p{border-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__topbar.animate{box-shadow: 0 0 5px #fff;}
+.myfolio__all_wrap[data-color="white"] .myfolio__hero .texts h4::after{background-color: #fff;}
+.myfolio__all_wrap[data-color="white"] .timeline-page .timeline-item .event:hover .title {color: #fff;}
+.myfolio__all_wrap[data-color="white"]  .portfolio-content-head .controls li.filter:hover {color: #fff;}
+.myfolio__all_wrap[data-color="white"] .portfolio-content-head .controls li.filter.active{color: #fff;}
+
+
+.myfolio__all_wrap[data-color="purple"] .cursor-inner.cursor-hover{background-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .cursor-outer{border-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .cursor-inner{background-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__topbar .list ul li.current a{color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__topbar .list ul li a:hover{color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__title span{color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__button a{background-color: #9200ee;border-color:#9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="purple"] .progress_inner .background .bar_in{background: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .svg{color: #9200ee !important;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__news ul li .details span a:hover{color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__news ul li .details .title a:hover{color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__copyright{background-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__modalbox .hide_content .quotebox p{border-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__topbar.animate{box-shadow: 0 0 5px #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .myfolio__hero .texts h4::after{background-color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"] .portfolio-content-head .controls li.filter.active{color: #9200ee;}
+.myfolio__all_wrap[data-color="purple"]  .portfolio-content-head .controls li.filter:hover {color: #9200ee;}
+
+
+.myfolio__all_wrap[data-color="sky"] .cursor-inner.cursor-hover{background-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .cursor-outer{border-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .cursor-inner{background-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__topbar .list ul li.current a{color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__topbar .list ul li a:hover{color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__title span{color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__button a{background-color: #00D4BD;border-color:#00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="sky"] .progress_inner .background .bar_in{background: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .svg{color: #00D4BD !important;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__news ul li .details span a:hover{color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__news ul li .details .title a:hover{color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__copyright{background-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__modalbox .hide_content .quotebox p{border-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__topbar.animate{box-shadow: 0 0 5px #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .myfolio__hero .texts h4::after{background-color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .timeline-page .timeline-item .event:hover .title {color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .portfolio-content-head .controls li.filter:hover {color: #00D4BD;}
+.myfolio__all_wrap[data-color="sky"] .portfolio-content-head .controls li.filter.active{color: #00D4BD;}
+
+
+.myfolio__all_wrap[data-color="cadetBlue"] .cursor-inner.cursor-hover{background-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .cursor-outer{border-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .cursor-inner{background-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__topbar .list ul li.current a{color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__topbar .list ul li a:hover{color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__title span{color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__button a{background-color: #5e9e9f;border-color:#5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="cadetBlue"] .progress_inner .background .bar_in{background: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .svg{color: #5e9e9f !;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__news ul li .details span a:hover{color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__news ul li .details .title a:hover{color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__copyright{background-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__modalbox .hide_content .quotebox p{border-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__topbar.animate{box-shadow: 0 0 5px #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .myfolio__hero .texts h4::after{background-color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .timeline-page .timeline-item .event:hover .title {color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"] .portfolio-content-head .controls li.filter.active{color: #5e9e9f;}
+.myfolio__all_wrap[data-color="cadetBlue"]  .portfolio-content-head .controls li.filter:hover {color: #5e9e9f;}
+
+
+.myfolio__all_wrap[data-color="olive"] .cursor-inner.cursor-hover{background-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .cursor-outer{border-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .cursor-inner{background-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__topbar .list ul li.current a{color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__topbar .list ul li a:hover{color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__title span{color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__button a{background-color: #666d41;border-color:#666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="olive"] .progress_inner .background .bar_in{background: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .svg{color: #666d41 !important;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__news ul li .details span a:hover{color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__news ul li .details .title a:hover{color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__copyright{background-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__modalbox .hide_content .quotebox p{border-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__topbar.animate{box-shadow: 0 0 5px #666d41;}
+.myfolio__all_wrap[data-color="olive"] .myfolio__hero .texts h4::after{background-color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .timeline-page .timeline-item .event:hover .title {color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .portfolio-content-head .controls li.filter:hover {color: #666d41;}
+.myfolio__all_wrap[data-color="olive"] .portfolio-content-head .controls li.filter.active{color: #666d41;}
+
+
+.myfolio__all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .cursor-outer{border-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .cursor-inner{background-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__topbar .list ul li.current a{color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__topbar .list ul li a:hover{color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__title span{color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__button a{background-color: #e65f78;border-color:#e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="crimson"] .progress_inner .background .bar_in{background: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .svg{color: #e65f78 !important;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__news ul li .details span a:hover{color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__news ul li .details .title a:hover{color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__copyright{background-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__modalbox .hide_content .quotebox p{border-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__topbar.animate{box-shadow: 0 0 5px #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .myfolio__hero .texts h4::after{background-color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .timeline-page .timeline-item .event:hover .title {color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"] .portfolio-content-head .controls li.filter.active {color: #e65f78;}
+.myfolio__all_wrap[data-color="crimson"]  .portfolio-content-head .controls li.filter:hover {color: #e65f78;}
+
+
+.myfolio__all_wrap[data-color="red"] .cursor-inner.cursor-hover{background-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .cursor-outer{border-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .cursor-inner{background-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__topbar .list ul li.current a{color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__topbar .list ul li a:hover{color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__title span{color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__button a{background-color: #fe0000;border-color:#fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__button a:hover{background-color: transparent;}
+.myfolio__all_wrap[data-color="red"] .myfolio__video .myfolio__button a{background-color: #fff;border-color: #fff;color: #000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__video .myfolio__button a:hover{background-color: transparent;color: #fff;}
+.myfolio__all_wrap[data-color="red"] .progress_inner .background .bar_in{background: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .svg{color: #fe0000 !important;}
+.myfolio__all_wrap[data-color="red"] .myfolio__portfolio .portfolio_list ul li .image .main:after{background-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__video .rounded:before{border-color: transparent transparent transparent #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__news ul li .details span a:hover{color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__news ul li .details .title a:hover{color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__copyright{background-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__modalbox .hide_content .quotebox p{border-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__topbar.animate{box-shadow: 0 0 5px #fe0000;}
+.myfolio__all_wrap[data-color="red"] .myfolio__hero .texts h4::after{background-color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .timeline-page .timeline-item .event:hover .title {color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .portfolio-content-head .controls li.filter:hover {color: #fe0000;}
+.myfolio__all_wrap[data-color="red"] .portfolio-content-head .controls li.filter.active{color: #fe0000;}
+

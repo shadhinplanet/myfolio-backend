@@ -1,0 +1,45 @@
+/* ./resources/css/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+img{
+    max-width: 100%;
+}
+
+.menu-item{
+    @apply text-base py-1 block hover:text-yellow-500
+}
+.active .menu-item{
+    @apply text-yellow-500
+}
+
+.formLabel{
+    @apply block text-sm text-gray-600 mb-1
+}
+.formInput{
+    @apply border border-blue-300 px-2 py-1 w-full
+}
+.singleInputField{
+    @apply my-3
+}
+
+
+
+.create_new_form p{
+    @apply mb-5
+}
+.inputLabel{
+    @apply text-sm text-gray-600 mb-1 block
+}
+.inputField{
+    @apply block border border-blue-500 px-3 py-1 w-full
+}
+
+.submenu{
+    @apply ml-3 pl-2 text-sm bg-purple-800
+}
+.submenu li a{
+    @apply text-white
+}
+

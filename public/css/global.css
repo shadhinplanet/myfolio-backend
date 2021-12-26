@@ -1,0 +1,74 @@
+.white-popup {
+    position: relative;
+    background: #fff;
+    padding: 20px;
+    width: auto;
+    max-width: 500px;
+    margin: 20px auto;
+}
+.dataTable td {
+    vertical-align: middle;
+}
+
+
+.editAboutMe input:focus, .editAboutMe textarea:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#contentAboutMe{
+    position: relative;
+}
+#loader{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    background: #fff
+}
+
+
+body.swal2-shown > [aria-hidden="true"] {
+    transition: 0.1s filter;
+    filter: blur(10px);
+}
+.swal2-close:focus {
+    outline: 0;
+    box-shadow: none !important;
+}
+.swal2-close {
+    outline: none;
+    box-shadow: none;
+}
+.colored-toast.swal2-icon-success {
+    background-color: #5e5dc4 !important;
+}
+
+.colored-toast.swal2-icon-error {
+    background-color: #f27474 !important;
+}
+
+.colored-toast.swal2-icon-warning {
+    background-color: #f8bb86 !important;
+}
+
+.colored-toast.swal2-icon-info {
+    background-color: #3fc3ee !important;
+}
+
+.colored-toast.swal2-icon-question {
+    background-color: #87adbd !important;
+}
+
+.colored-toast .swal2-title {
+    color: white;
+}
+
+.colored-toast .swal2-close {
+    color: white;
+}
+
+.colored-toast .swal2-html-container {
+    color: white;
+}

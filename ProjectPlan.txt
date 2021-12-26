@@ -1,0 +1,54 @@
+Project Name: Portfolio Site with Laravel
+
+    - Models
+        - Hero
+            - title
+            - subtitle
+            - image
+            - skill_list
+        - About
+            - title
+            - subtitle
+            - description
+            - singature
+            - cv_link
+            - thumbnail
+            - experience_years
+            - experience_text
+        - Services
+            - title
+            - subtitle
+            - description
+            - skill_progress
+            - service_icon
+            - service_text
+        - Portfolio
+            - thumbnail
+            - title
+            - category
+            - description
+            - gallery
+            - preview_url
+        - Promo
+            - title
+            - button
+            - video_url
+            - background
+        - Testimonials
+            - author
+            - description
+            - designation
+            - star
+            - thumbnail
+        - News
+            - title
+            - description
+            - categories
+            - thumbnail
+        - Contact
+
+    - Settings
+        -
+
+
+
