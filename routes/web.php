@@ -13,7 +13,6 @@ use App\Models\Portfolio;
 use App\Models\Service;
 use App\Models\ServicesList;
 use App\Models\Skill;
-use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Request;
 use Illuminate\Support\Facades\Route;
 

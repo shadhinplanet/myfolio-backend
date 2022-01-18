@@ -18,7 +18,7 @@ class CreateExperienceListsTable extends Migration
             $table->string('title');
             $table->string('company_name');
             $table->string('company_tag');
-            $table->string('description');
+            $table->longText('description');
             $table->string('start_date');
             $table->string('end_date')->nullable();
             $table->timestamps();

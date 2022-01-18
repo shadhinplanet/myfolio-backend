@@ -196,7 +196,7 @@ class DatabaseSeeder extends Seeder
         Experience::create([
             'title' => 'My Journey',
             'subtitle' => 'EXPERIENCES',
-            'description' => 'Obviously I\'m a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.            ',
+            'description' => 'Obviously I\'m a Web Designer. Experienced with all stages of the development cycle for dynamic web projects.',
         ]);
 
         ExperienceList::create([
