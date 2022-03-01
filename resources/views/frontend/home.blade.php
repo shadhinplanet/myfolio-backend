@@ -17,6 +17,7 @@
                     @if ($hero)
                         <div class="content">
                             <div class="texts">
+                                <h2>Test</h2>
                                 <h4>{{ $hero->subtitle }}</h4>
                                 <div class="job">
                                     {{-- <video playsinline autoplay muted loop>
@@ -452,7 +453,7 @@
         <div class="content">
             <div class="container">
                 <div class="content_inner">
-                    
+
                     <h3 class="text wow fadeInUp" data-wow-duration="1.5s">Let's Start Your Next Project!</h3>
                     <div class="myfolio__button wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.2s">
                         <a class="popup-youtube" href="https://www.youtube.com/watch?v=ICr_bOuM9Zo">Get Started</a>

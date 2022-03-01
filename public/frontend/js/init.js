@@ -8,6 +8,7 @@
 
     jQuery(window).load("body", function () {
         myfolio__my_load();
+        projectMesonary();
     });
     jQuery(window).on("resize", function () {
         myIsotope();
@@ -99,7 +100,7 @@ function myfolio__init__data_load() {
 	myfolio__jarallax();
 	myfolio__owl_carousel();
 
-    projectMesonary();
+
 
     // -----------------------------------------------------
     // --------------------    WOW JS    -------------------
